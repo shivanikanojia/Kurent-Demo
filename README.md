@@ -1,11 +1,3 @@
-[![License badge](https://img.shields.io/badge/license-Apache2-orange.svg)](http://www.apache.org/licenses/LICENSE-2.0)
-[![Documentation badge](https://readthedocs.org/projects/fiware-orion/badge/?version=latest)](http://doc-kurento.readthedocs.org/en/latest/)
-[![Docker badge](https://img.shields.io/docker/pulls/fiware/orion.svg)](https://hub.docker.com/r/fiware/stream-oriented-kurento/)
-[![Support badge]( https://img.shields.io/badge/support-sof-yellowgreen.svg)](http://stackoverflow.com/questions/tagged/kurento)
-
-[![][KurentoImage]][Kurento]
-
-Copyright © 2013-2016 [Kurento]. Licensed under [Apache 2.0 License].
 
 kurento-hello-world
 ===================
@@ -120,3 +112,6 @@ Before asking for support, please read first the [Kurento Netiquette Guidelines]
 [Open API specification]: http://kurento.github.io/doc-kurento/
 [apiary.io]: http://docs.streamoriented.apiary.io/
 [instructions]: http://www.kurento.org/docs/current/tutorials/java/tutorial-helloworld.html
+=======
+# Kurent-Demo
+>>>>>>> 4d450aae3583c2db579d4f89aad7cdf6814058b3
