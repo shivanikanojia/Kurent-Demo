@@ -111,7 +111,4 @@ Before asking for support, please read first the [Kurento Netiquette Guidelines]
 [readthedocs.org]: http://kurento.readthedocs.org/
 [Open API specification]: http://kurento.github.io/doc-kurento/
 [apiary.io]: http://docs.streamoriented.apiary.io/
-[instructions]: http://www.kurento.org/docs/current/tutorials/java/tutorial-helloworld.html
-=======
-# Kurent-Demo
->>>>>>> 4d450aae3583c2db579d4f89aad7cdf6814058b3
+[instructions]: http://www.kurento.org/docs/current/tutorials/java/tutorial-helloworld.htm
